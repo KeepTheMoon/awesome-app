@@ -1,0 +1,8 @@
+{
+  "name": "awesome-app",
+  "app_id": "a80c5327",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
